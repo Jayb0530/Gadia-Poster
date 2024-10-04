@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    }
+    
+.container {
+    display: flex;
+    justify-content: center;
+    : center;
+    height: 100vh;
+            }
+        
+.image {
+    width: 75%;
+    margin: 0 auto;
+    border: 10px solid saddlebrown;
+    border-radius: 10px;
+        }
+    
+h1 {
+    font-size: 5rem;
+    white;
+    margin: 2rem 0;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    font-weight: bold;
+        }
+    
+p {
+    font-size: 2rem;
+    color: white;
+    margin: 1rem 0;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    font-weight: bold;
+        }
+    
